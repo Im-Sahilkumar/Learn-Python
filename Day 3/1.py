@@ -1,4 +1,4 @@
-# arthemtic operators
+# arithmetic operators
 x = 10
 y = 20
 
